@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yt-to-mp3/static/css/main.e6c13ad2.css",
+    "main.js": "/yt-to-mp3/static/js/main.2c932894.js",
+    "service-worker.js": "/yt-to-mp3/service-worker.js",
+    "index.html": "/yt-to-mp3/index.html",
+    "main.e6c13ad2.css.map": "/yt-to-mp3/static/css/main.e6c13ad2.css.map",
+    "main.2c932894.js.map": "/yt-to-mp3/static/js/main.2c932894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2c932894.js"
+  ]
+}
